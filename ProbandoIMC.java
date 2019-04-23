@@ -9,7 +9,7 @@ import javafx.scene.control.Label;
 import javafx.scene.control.TextField;
 import javafx.scene.control.TextArea;
 
-public class ProbandoJFX extends Application{
+public class ProbandoIMC extends Application{
 	@Override
 	public void start(Stage primaryStage) {
 
